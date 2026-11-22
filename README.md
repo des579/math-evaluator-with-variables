@@ -90,13 +90,6 @@ The evaluator handles common errors, including:
 - **Data types:** `Double`
 - **Variable storage:** `Hashtable`
 
-## Getting Started
-
-1. Clone or download the repository.
-2. Open the project in your preferred Java IDE.
-3. Compile and run the application.
-4. Enter mathematical expressions and variable assignments.
-
 ## Example
 
 ```text
